@@ -8,3 +8,4 @@ class GoFirefox implements Go{
 		return new FirefoxDriver();
 	}
 }
+//This is a comment 1
